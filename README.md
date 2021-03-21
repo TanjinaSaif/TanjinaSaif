@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tanjina Saif
-- 👀 I’m interested in Data Analyis & Machine Learning.
-- 🌱 I’m currently learning Backend Development & Data Analysis.
+- 👀 I’m interested in Data Analysis & Machine Learning.
+- 🌱 I’m currently learning Web Development & Data Analysis.
 - 💞️ I’m looking forward to collaborate in the near future.
 
 <!---
