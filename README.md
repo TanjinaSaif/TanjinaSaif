@@ -1,4 +1,4 @@
-# Hi, I'm Tanjina 👋
+# Hi, I'm Tanjina🐰
 
 I’m a CS Master’s student at the University of Tsukuba, trying to make simulations behave less like toy projects and more like real life.
 
