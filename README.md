@@ -1,18 +1,33 @@
-# Hi, I'm Tanjina 👋
+<div align="center">
 
-I’m a CS Master’s student at the University of Tsukuba, trying to make simulations behave less like toy projects and more like real life.
+# Hi, I'm Tanjina 👋  
 
-Currently working on **multi-agent simulation for Tawaf crowd flow** — basically: agents, density, movement rules, chaos, and me trying to make sense of it.
+### CS Master's student trying to make simulations behave less like toys and more like real life.
 
-I like:
-- simulation & crowd behavior  
-- data analysis  
-- machine learning  
-- research coding that actually works  
-- turning messy ideas into models  
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
-Still learning. Still debugging. Still surviving grad school.  
-<!---
-TanjinaSaif/TanjinaSaif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
+
+---
+
+### Currently working on  
+**Multi-Agent Simulation for Tawaf crowd flow**  
+Agents, density, movement rules, chaos — and me trying to make sense of it.
+
+---
+
+### Things I like messing with
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-FF6F00?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Simulation](https://img.shields.io/badge/Simulation-6A5ACD?style=for-the-badge)
+![NetLogo](https://img.shields.io/badge/NetLogo-CC0000?style=for-the-badge)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+---
+
+### My current academic personality
+
+```text
+Build model → break model → panic → debug → explain to supervisor → repeat.
